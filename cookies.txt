@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+glorylawfirm.kr	TRUE	/	FALSE	1999999999	PHPSESSID	q25mjso2juik2cjnnsqs3lcugk
+glorylawfirm.kr	TRUE	/	FALSE	1999999999	visited	visited
+

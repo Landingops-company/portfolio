@@ -1,0 +1,84 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Dec 2025 23:47:14 at https://glorylawfirm.kr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*facebook.com/* -*instagram.com/* -*youtube.com/* -*tiktok.com/* -*twitter.com/* -*naver.com/* -*cafe.naver.com/* -*blog.naver.com/* -*telegram.org/*
+(winhttrack -qwr5%e0C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A250000%c10#L5000000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://glorylawfirm.kr/ -O1 "C:\Users\강민우\Desktop\test-web-down\gloy-test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*facebook.com/* -*instagram.com/* -*youtube.com/* -*tiktok.com/* -*twitter.com/* -*naver.com/* -*cafe.naver.com/* -*blog.naver.com/* -*telegram.org/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:47:14	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+23:47:15	Warning: 	Moved Permanently for https://glorylawfirm.kr/
+23:47:15	Warning: 	File has moved from https://glorylawfirm.kr/ to /kor/main
+23:47:19	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.onetag.co.kr/0/tcs6736.js.z
+23:47:19	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.onetag.co.kr/0/tcs6736.js: No error
+23:47:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 11412 got 0): https://cdn.onetag.co.kr/0/tcs.js?eid=1k1zhc4s5tb8y1k1zhc4s5
+23:47:25	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/wcs.naver.net/wcslog.js.z
+23:47:25	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/wcs.naver.net/wcslog.js: No error
+23:47:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 10434 got 0): wcs.naver.net/wcslog.js
+23:47:25	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.smlog.co.kr/core/smart.js.z
+23:47:25	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.smlog.co.kr/core/smart.js: No error
+23:47:25	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/karrot-pixel.business.daangn.com/0.2/karrot-pixel.umd.js.z
+23:47:25	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/karrot-pixel.business.daangn.com/0.2/karrot-pixel.umd.js: No error
+23:47:26	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/karrot-pixel.business.daangn.com/0.4/karrot-pixel.umd.js.z
+23:47:26	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/karrot-pixel.business.daangn.com/0.4/karrot-pixel.umd.js: No error
+23:47:51	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://glorylawfirm.kr/kor/main/)
+23:47:51	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11412 expected)) at link https://cdn.onetag.co.kr/0/tcs.js?eid=1k1zhc4s5tb8y1k1zhc4s5 (from https://glorylawfirm.kr/kor/main/)
+23:47:51	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.jsdelivr.net/gh/ungveloper/web-fonts/GmarketSans/font-face.css.z
+23:47:51	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.onetag.co.kr/0/tcs6736.js.z
+23:47:51	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.onetag.co.kr/0/tcs6736.js: No error
+23:47:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 11412 got 0): https://cdn.onetag.co.kr/0/tcs.js?eid=1k1zhc4s5tb8y1k1zhc4s5
+23:48:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 10434 expected)) at link wcs.naver.net/wcslog.js (from https://glorylawfirm.kr/kor/main/)
+23:48:34	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/wcs.naver.net/wcslog.js.z
+23:48:34	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/wcs.naver.net/wcslog.js: No error
+23:48:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 10434 got 0): wcs.naver.net/wcslog.js
+23:48:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11412 expected)) at link https://cdn.onetag.co.kr/0/tcs.js?eid=1k1zhc4s5tb8y1k1zhc4s5 (from https://glorylawfirm.kr/kor/main/)
+23:48:34	Error: 	"Error when decompressing" (-1) at link https://cdn.jsdelivr.net/gh/ungveloper/web-fonts/GmarketSans/font-face.css (from https://glorylawfirm.kr/kor/revive/)
+23:48:36	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.onetag.co.kr/0/tcs6736.js.z
+23:48:36	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/cdn.onetag.co.kr/0/tcs6736.js: No error
+23:48:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 11412 got 0): https://cdn.onetag.co.kr/0/tcs.js?eid=1k1zhc4s5tb8y1k1zhc4s5
+23:49:10	Warning: 	Found for https://glorylawfirm.kr/data/staffData/
+23:49:10	Warning: 	File has moved from https://glorylawfirm.kr/data/staffData/ to http://easeldesign.kr/error/pagefault.html
+23:52:26	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 10434 expected)) at link wcs.naver.net/wcslog.js (from https://glorylawfirm.kr/kor/main/)
+23:52:26	Error: 	"Incorrect length (0 Bytes, 11412 expected)" (-4) after 2 retries at link https://cdn.onetag.co.kr/0/tcs.js?eid=1k1zhc4s5tb8y1k1zhc4s5 (from https://glorylawfirm.kr/kor/main/)
+23:52:33	Warning: 	can not create directory to C:/Users/강민우/Desktop/test-web-down/gloy-test/wcs.naver.net/wcslog.js.z
+23:52:33	Error: 	Unable to save file C:/Users/강민우/Desktop/test-web-down/gloy-test/wcs.naver.net/wcslog.js: No error
+23:52:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 10434 got 0): wcs.naver.net/wcslog.js
+23:52:35	Error: 	"Access Denied" (403) at link https://postfiles.pstatic.net/MjAyMDEwMDdfMTM4/MDAxNjAyMDU4MTc2MzU1.WlMYWfgdu2A-33i2vZqDoPBUpfFg8qfnJYLXFdcqXGwg.q3uaFVJu4F1MCEj_6hrzqjHfd9GMZbfvocGyXJdOWH4g.JPEG.lawandfirm5/캡처.JPG?type=w773 (from https://glorylawfirm.kr/kor/divorce/case_list.php?m=v&idx=218)
+23:52:35	Error: 	"Access Denied" (403) at link https://postfiles.pstatic.net/MjAyMzA2MDdfMjQ5/MDAxNjg2MDk4NDA2OTk3.pBpni0VXugtnUPnO5Y9JpMdCBFJ7pp4xf34cryixK-8g.QPxJZroiMW2_G5v_BH48hePBWx9rl1DnbDuYYI3dgy4g.JPEG.glorylawfirm/분양권재산분할.jpg?type=w966 (from https://glorylawfirm.kr/kor/divorce/case_list.php?m=v&idx=218)
+23:52:36	Error: 	"Access Denied" (403) at link https://postfiles.pstatic.net/MjAyMDEwMTRfMTcz/MDAxNjAyNjY0MDk0NDE4.vxa34fUYvoMRI9vXo-MGIcz_Qf9zXBkC-yswDZ9QAa4g.04lyEPxV-yxiaQ79ESjtvvjXrtu9WP6Gwntik7isdXwg.JPEG.lawandfirm5/재산분할명세표_서병연001.jpg?type=w773 (from https://glorylawfirm.kr/kor/divorce/case_list.php?m=v&idx=212)
+23:52:36	Error: 	"Access Denied" (403) at link https://postfiles.pstatic.net/MjAyMzA2MDdfMjQx/MDAxNjg2MTIyNDM3Njk1.dWiWjvPS__QCR-WH40nlpo_WcmcuRlf7O6Rc9g9IOCUg.um8E_YNQ8sXhAu-lZ5visXKJPHWWVN_iRUSYIm-RE5kg.JPEG.glorylawfirm/서병연_판결문_(2).jpg?type=w966 (from https://glorylawfirm.kr/kor/divorce/case_list.php?m=v&idx=212)
+23:52:37	Warning: 	Found for https://glorylawfirm.kr/kor/company/main/
+23:52:37	Warning: 	File has moved from https://glorylawfirm.kr/kor/company/main/ to http://easeldesign.kr/error/pagefault.html
+23:52:37	Warning: 	Found for https://glorylawfirm.kr/kor/company/revive/
+23:52:37	Warning: 	File has moved from https://glorylawfirm.kr/kor/company/revive/ to http://easeldesign.kr/error/pagefault.html
+23:52:37	Warning: 	Found for https://glorylawfirm.kr/kor/company/divorce/
+23:52:37	Warning: 	File has moved from https://glorylawfirm.kr/kor/company/divorce/ to http://easeldesign.kr/error/pagefault.html
+23:52:38	Warning: 	Found for https://glorylawfirm.kr/kor/business/main/
+23:52:38	Warning: 	File has moved from https://glorylawfirm.kr/kor/business/main/ to http://easeldesign.kr/error/pagefault.html
+23:52:38	Warning: 	Found for https://glorylawfirm.kr/kor/business/revive/
+23:52:38	Warning: 	File has moved from https://glorylawfirm.kr/kor/business/revive/ to http://easeldesign.kr/error/pagefault.html
+23:52:38	Warning: 	Found for https://glorylawfirm.kr/kor/business/divorce/
+23:52:38	Warning: 	File has moved from https://glorylawfirm.kr/kor/business/divorce/ to http://easeldesign.kr/error/pagefault.html
+23:52:38	Warning: 	Found for https://glorylawfirm.kr/kor/review/main/
+23:52:38	Warning: 	File has moved from https://glorylawfirm.kr/kor/review/main/ to http://easeldesign.kr/error/pagefault.html
+23:52:38	Warning: 	Found for https://glorylawfirm.kr/kor/review/revive/
+23:52:38	Warning: 	File has moved from https://glorylawfirm.kr/kor/review/revive/ to http://easeldesign.kr/error/pagefault.html
+23:52:38	Warning: 	Found for https://glorylawfirm.kr/kor/review/divorce/
+23:52:38	Warning: 	File has moved from https://glorylawfirm.kr/kor/review/divorce/ to http://easeldesign.kr/error/pagefault.html
+23:53:06	Warning: 	Found for https://glorylawfirm.kr/kor/community/main/
+23:53:06	Warning: 	File has moved from https://glorylawfirm.kr/kor/community/main/ to http://easeldesign.kr/error/pagefault.html
+23:53:06	Warning: 	Found for https://glorylawfirm.kr/kor/community/revive/
+23:53:06	Warning: 	File has moved from https://glorylawfirm.kr/kor/community/revive/ to http://easeldesign.kr/error/pagefault.html
+23:53:06	Warning: 	Found for https://glorylawfirm.kr/kor/community/divorce/
+23:53:06	Warning: 	File has moved from https://glorylawfirm.kr/kor/community/divorce/ to http://easeldesign.kr/error/pagefault.html
+23:53:11	Warning: 	Found for https://glorylawfirm.kr/kor/policy/main/
+23:53:11	Warning: 	File has moved from https://glorylawfirm.kr/kor/policy/main/ to http://easeldesign.kr/error/pagefault.html
+23:53:11	Warning: 	Found for https://glorylawfirm.kr/kor/policy/revive/
+23:53:11	Warning: 	File has moved from https://glorylawfirm.kr/kor/policy/revive/ to http://easeldesign.kr/error/pagefault.html
+23:53:11	Warning: 	Found for https://glorylawfirm.kr/kor/policy/divorce/
+23:53:11	Warning: 	File has moved from https://glorylawfirm.kr/kor/policy/divorce/ to http://easeldesign.kr/error/pagefault.html
+23:53:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://glorylawfirm.kr/kor/inc/kcaptcha/?form=quick&PHPSESSID=q25mjso2juik2cjnnsqs3lcugk&rand=472664811 (from https://glorylawfirm.kr/kor/policy/privacy.php?ver=)
+23:53:11	Error: 	"Incorrect length (0 Bytes, 10434 expected)" (-4) after 2 retries at link wcs.naver.net/wcslog.js (from https://glorylawfirm.kr/kor/main/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 57 seconds : 1008 links scanned, 978 files written (108085909 bytes overall) [108597399 bytes received at 304194 bytes/sec], 205 bytes transferred using HTTP compression in 1 files, ratio 100%, 17.7 requests per connection
+(17 errors, 56 warnings, 0 messages)
